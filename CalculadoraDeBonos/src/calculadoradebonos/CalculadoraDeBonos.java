@@ -1,12 +1,6 @@
 package calculadoradebonos;
 
-/**
- *
- * @author maryse
- *
- * Este programa calcula e imprime el bono por trabajo de una persona.
- *
- */
+
 public class CalculadoraDeBonos {
     int salario; // salario de una persona
         String mensajeDeBono;
